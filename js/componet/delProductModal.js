@@ -1,4 +1,4 @@
-import {Delete_product} from '/js/api.js';
+import {Delete_product} from '../api.js';
 
 export default {
     props:['tempProduct'],

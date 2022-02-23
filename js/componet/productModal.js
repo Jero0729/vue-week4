@@ -1,4 +1,4 @@
-import {Post_product,Put_product } from '/js/api.js'
+import {Post_product,Put_product } from '../api.js'
 
 export default {
 props: ['tempProduct','isNew'],
